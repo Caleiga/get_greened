@@ -1,0 +1,35 @@
+,Duration (in seconds),UserLanguage,participant_number,age,gender,ethnicity,political_orientation,political_orientation_text,achieved_education,achieved_education_text,bothered_pre,uneasy_pre,uncomfortable_pre,video,C_time_alone,C_academic_performance,T_time_alone,T_academic_performance,value_activation,Q25_First Click,bothered_post,uneasy_post,uncomfortable_post,sandwich,diet,diet_text,reason_for_choice,labels_attention,feeling_observed,did_value_activation_affect_choice
+0,1837,FR,26,22,2,3,3,,3,,,,,,1.0,1.0,,,,0.0,0,0,0,5,3,,je n'ai pas pris de sandwich car je n'avais pas faim ,1,2,
+1,2522,FR,59,24,2,2,3,,3,,,,,,1.0,1.0,,,,0.0,0,0,0,1,3,,j'aime le pesto; j'aime les légumes; sandwich différent des classiques jambon fromage ou viande séchée; il avait l'air bon; pas de cornichons,1,2,
+2,2356,EN,136,27,2,1,1,,3,,17.0,27.0,27.0,,,,1.0,2.0,1.0,0.0,0,19,19,1,1,,It was veggie and looked tasty,1,2,2.0
+3,1168,EN,55,23,2,2,1,,4,,,33.0,34.0,,1.0,1.0,,,,0.0,5,0,0,2,7,No red meat (pork included),It was vegetarian and looked tasty,2,2,
+4,1291,EN,106,22,1,1,1,,3,,8.0,27.0,32.0,,,,1.0,1.0,1.0,0.0,90,90,46,1,3,,Because I had just said that I care about CO2 emissions and there was clearly written the amount of CO2 emitted for each sandwich. Still I was not so sure because I can barely afford meat in Switzerland; but when i read that there was butter with the ham and cheese it was also a matter of good taste. Therefore; my final choice was pesto; because the hummus one didn't seem inviting.,1,1,1.0
+5,1157,FR,25,23,2,3,2,,2,,,,,,1.0,1.0,,,,0.0,47,47,48,5,3,,-,1,1,
+6,2915,EN,52,21,2,1,1,,2,,0.0,5.0,21.0,,1.0,1.0,,,,310.919,0,0,37,3,3,,I like ham and cheese; and the pesto one seemed very greasy. ,1,2,
+7,3043,FR,57,23,2,1,1,,3,,64.0,66.0,22.0,,1.0,1.0,,,,0.0,37,39,40,2,1,,je suis végé mais j'essaie d'être le plus végan que possible et hoummous me donne une inspiration végane; pesto c'était végane aussi j'ai remarqué après mais je suis pas hyper fan de pesto du coup j'avais pas vraiment regardé celui là,3,1,
+8,5843,FR,137,21,2,1,2,,3,,20.0,39.0,10.0,,,,1.0,1.0,1.0,0.0,3,5,4,3,3,,J'avais une envie de jambon ,1,2,2.0
+9,1030,FR,109,22,2,1,2,,3,,,,,,,,1.0,1.0,1.0,0.0,0,0,0,1,3,,il avait l'air bon j'adore le pesto,1,2,2.0
+10,1023,FR,129,20,2,1,2,,3,,74.0,77.0,22.0,,,,1.0,1.0,1.0,0.0,0,0,0,2,7,pesco vegetarien,me donnait le plus envie et je ne mange pas de viande,1,2,2.0
+11,3102,FR,67,28,1,1,1,,3,,,,,,1.0,1.0,,,,0.0,0,0,7,1,1,,Végétarien et aspect général (il avait l'air meilleur que le carotte),1,1,
+12,3979,FR,60,24,2,1,2,,3,,,11.0,,,1.0,1.0,,,,0.0,0,0,7,3,7,Pas de régime particulier,J'hésitais entre jambon/fromage et viande séchée. Mon choix s'est porté vers celui au jambon/fromage car j'avais envie d'un peu de fromage.,1,2,
+13,4629,FR,42,23,1,1,4,Aucune,4,,,,,,1.0,1.0,,,,0.0,2,2,2,5,3,,Je n'avais pas faim pour un sandwich,1,2,
+14,2989,FR,110,31,1,1,1,,4,,9.0,9.0,,,,,1.0,2.0,1.0,0.0,0,0,0,4,7,Fléxitarien ,Rare que je puisse manger de la viande séché ,1,2,2.0
+15,2312,EN,120,23,2,1,2,,3,,,,,,,,1.0,1.0,1.0,0.0,0,0,0,1,7,Flexitarian; Vegetarian and Dairy free majority of the time; but when travelling or a guest am flexible with diet,Because it looked the most interesting; fit within my dietary life style; and I have a slight intollerance to chickpeas so wasn't sure about the hummus,1,2,2.0
+16,3272,FR,14,23,2,1,2,,3,,,17.0,,,1.0,2.0,,,,0.0,0,0,0,5,3,,J'ai choisi aucun sandwich car on m'a dit qu'il y avait des aubergines et je suis allergique à ces dernières. ,2,2,
+17,1362,EN,69,25,1,1,1,,3,,9.0,3.0,5.0,,1.0,1.0,,,,0.0,9,5,25,2,3,,Because I didn't want to eat meat and the hummus won over the eggplant,1,3,
+18,1055,FR,65,22,1,1,3,,2,,,,,,1.0,1.0,,,,0.0,0,0,0,3,3,,par élimination : je préfère la viande; je n'aime pas le pesto; etc.,1,2,
+19,1522,FR,88,19,1,1,4,Difficile de simplement se placer sur l'axe politique uniquement caractérisé par gauche et droite; il faudrait faire entrer d'autres facteurs en jeu; mais en soit je ne suis pas un grand fervent du libéralisme ,2,,0.0,,2.0,,,,1.0,1.0,1.0,11.819,58,0,69,2,3,,Car j'ai constaté qu'il était largement celui ayant l'empreinte carbone la plus faible. Bien que j'aurais de base pris celui à la viande séchée; je me suis dit étant donné de l'évidence sous mes yeux qu'il était plus judicieux de prendre celui au houmous étant donné que j'apprécie tout de même le houmous.,1,1,1.0
+20,4172,FR,127,26,1,1,4,absente,4,,9.0,13.0,14.0,,,,1.0,1.0,1.0,0.0,66,1,67,2,3,,Je pense que la couleur orange des carottes attiré mon oeil en premier. Ensuite évidemment la pression d'être filmé et l'eqco2 écrit en information; on a forcément pas envie de prendre ceux à la viande. Il était bon d'ailleurs; très bon ,1,1,1.0
+21,5291,FR,19,22,2,1,1,,3,,4.0,2.0,0.0,,1.0,1.0,,,,0.0,0,12,7,4,3,,il semble bon et vu que je ne suis pas vg ou vegan c'était mieux de laisser ces options la,3,2,
+22,3593,FR,85,24,1,3,2,,2,,3.0,2.0,0.0,,,,1.0,1.0,1.0,0.0,12,6,6,4,3,,"Source de protéine plus ""importante""",1,1,2.0
+23,2820,FR,24,19,2,1,1,,2,,0.0,0.0,0.0,,1.0,2.0,,,,0.0,0,0,0,1,1,,car il j'adore les aubergines et le pesto ,1,3,
+24,3299,FR,135,24,2,1,3,,3,,,,,,,,1.0,1.0,1.0,0.0,1,1,0,1,3,,Celui qui me faisait le plus envie; tout simplement (pesto),2,1,2.0
+25,3405,FR,6,23,1,1,1,,3,,,15.0,,,1.0,1.0,,,,0.0,0,0,0,3,3,,C'est ce que je préfère niveau goût,1,2,
+26,1242,FR,31,23,2,1,4,aucune orientation précise,3,,,,,,1.0,1.0,,,,0.0,0,0,0,3,3,,Celui dont javais envie aujourdhui ,1,2,
+27,1061,FR,73,21,2,1,2,,8,collégiale (quebec),,,,,,,1.0,1.0,1.0,0.0,0,0,0,3,3,,il semblait bon,1,2,2.0
+28,1301,FR,133,22,2,1,2,,3,,0.0,,6.0,,,,1.0,1.0,1.0,0.0,10,1,9,1,3,,Sans viande et à l'aspect,1,2,2.0
+29,2390,EN,83,23,1,1,1,,3,,,,,,,,1.0,1.0,1.0,301.699,0,0,0,1,3,,Because I liked its components.,1,2,1.0
+30,2426,FR,138,33,2,1,4,Aucune,4,,12.0,3.0,,,,,1.0,1.0,1.0,0.0,0,0,0,5,3,,Je n'ai choisi aucun sandwich,1,2,2.0
+31,963,FR,30,23,2,1,1,,2,,7.0,4.0,6.0,,1.0,1.0,,,,0.0,3,2,3,5,3,,J'en ai choisi aucun,1,1,
+32,1342,FR,89,21,1,2,1,,2,,9.0,21.0,11.0,,,,1.0,1.0,1.0,0.0,0,4,23,2,1,,Je suis végétarien; donc j'avais seulement deux choix. Peut-être que la quantité équivalente de CO2 a influencé mon choix; mais principalement c'était parce que je n'aime pas l'aubergine.,1,2,2.0
+33,1431,FR,107,23,2,1,1,,4,,6.0,,,,,,1.0,1.0,1.0,0.0,45,2,21,5,3,,parce que je n avais pas faim,1,2,2.0
