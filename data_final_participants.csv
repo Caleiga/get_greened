@@ -1,0 +1,19 @@
+,Duration (in seconds),UserLanguage,participant_number,age,gender,ethnicity,political_orientation,political_orientation_text,achieved_education,achieved_education_text,bothered_pre,uneasy_pre,uncomfortable_pre,video,C_time_alone,C_academic_performance,T_time_alone,T_academic_performance,value_activation,bothered_post,uneasy_post,uncomfortable_post,sandwich,diet,diet_text,reason_for_choice,labels_attention,feeling_observed,did_value_activation_affect_choice
+1,2522,FR,59,24,2,2,3,,3,,,,,,1.0,1.0,,,,0,0,0,1,3,,j'aime le pesto; j'aime les légumes; sandwich différent des classiques jambon fromage ou viande séchée; il avait l'air bon; pas de cornichons,1,2,
+4,1291,EN,106,22,1,1,1,,3,,8.0,27.0,32.0,,,,1.0,1.0,1.0,90,90,46,1,3,,Because I had just said that I care about CO2 emissions and there was clearly written the amount of CO2 emitted for each sandwich. Still I was not so sure because I can barely afford meat in Switzerland; but when i read that there was butter with the ham and cheese it was also a matter of good taste. Therefore; my final choice was pesto; because the hummus one didn't seem inviting.,1,1,1.0
+6,2915,EN,52,21,2,1,1,,2,,0.0,5.0,21.0,,1.0,1.0,,,,0,0,37,3,3,,I like ham and cheese; and the pesto one seemed very greasy. ,1,2,
+8,5843,FR,137,21,2,1,2,,3,,20.0,39.0,10.0,,,,1.0,1.0,1.0,3,5,4,3,3,,J'avais une envie de jambon ,1,2,2.0
+9,1030,FR,109,22,2,1,2,,3,,,,,,,,1.0,1.0,1.0,0,0,0,1,3,,il avait l'air bon j'adore le pesto,1,2,2.0
+12,3979,FR,60,24,2,1,2,,3,,,11.0,,,1.0,1.0,,,,0,0,7,3,7,Pas de régime particulier,J'hésitais entre jambon/fromage et viande séchée. Mon choix s'est porté vers celui au jambon/fromage car j'avais envie d'un peu de fromage.,1,2,
+14,2989,FR,110,31,1,1,1,,4,,9.0,9.0,,,,,1.0,2.0,1.0,0,0,0,4,7,Fléxitarien ,Rare que je puisse manger de la viande séché ,1,2,2.0
+17,1362,EN,69,25,1,1,1,,3,,9.0,3.0,5.0,,1.0,1.0,,,,9,5,25,2,3,,Because I didn't want to eat meat and the hummus won over the eggplant,1,3,
+18,1055,FR,65,22,1,1,3,,2,,,,,,1.0,1.0,,,,0,0,0,3,3,,par élimination : je préfère la viande; je n'aime pas le pesto; etc.,1,2,
+20,4172,FR,127,26,1,1,4,absente,4,,9.0,13.0,14.0,,,,1.0,1.0,1.0,66,1,67,2,3,,Je pense que la couleur orange des carottes attiré mon oeil en premier. Ensuite évidemment la pression d'être filmé et l'eqco2 écrit en information; on a forcément pas envie de prendre ceux à la viande. Il était bon d'ailleurs; très bon ,1,1,1.0
+21,5291,FR,19,22,2,1,1,,3,,4.0,2.0,0.0,,1.0,1.0,,,,0,12,7,4,3,,il semble bon et vu que je ne suis pas vg ou vegan c'était mieux de laisser ces options la,3,2,
+22,3593,FR,85,24,1,3,2,,2,,3.0,2.0,0.0,,,,1.0,1.0,1.0,12,6,6,4,3,,"Source de protéine plus ""importante""",1,1,2.0
+24,3299,FR,135,24,2,1,3,,3,,,,,,,,1.0,1.0,1.0,1,1,0,1,3,,Celui qui me faisait le plus envie; tout simplement (pesto),2,1,2.0
+25,3405,FR,6,23,1,1,1,,3,,,15.0,,,1.0,1.0,,,,0,0,0,3,3,,C'est ce que je préfère niveau goût,1,2,
+26,1242,FR,31,23,2,1,4,aucune orientation précise,3,,,,,,1.0,1.0,,,,0,0,0,3,3,,Celui dont javais envie aujourdhui ,1,2,
+27,1061,FR,73,21,2,1,2,,8,collégiale (quebec),,,,,,,1.0,1.0,1.0,0,0,0,3,3,,il semblait bon,1,2,2.0
+28,1301,FR,133,22,2,1,2,,3,,0.0,,6.0,,,,1.0,1.0,1.0,10,1,9,1,3,,Sans viande et à l'aspect,1,2,2.0
+29,2390,EN,83,23,1,1,1,,3,,,,,,,,1.0,1.0,1.0,0,0,0,1,3,,Because I liked its components.,1,2,1.0
