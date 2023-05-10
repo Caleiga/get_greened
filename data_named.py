@@ -6,7 +6,7 @@ data = data.drop(['StartDate', 'EndDate', 'Status', 'IPAddress', 'Progress', 'Fi
 data = data.drop(['RecipientFirstName', 'RecipientEmail', 'ExternalReference', 'LocationLatitude', 'LocationLongitude', 'DistributionChannel'], axis=1)
 data = data.drop(['Q3_5_TEXT', 'Q4_6_TEXT', 'Q25_Last Click', 'Q25_Page Submit', 'Q25_Click Count', 'Q25_First Click', 'Q21'], axis=1)
 data = data.rename(columns={'Q1':'participant_number', 'Q2':'age', 'Q3':'gender', 'Q4':'ethnicity', 'Q5':'political_orientation', 'Q5_4_TEXT':'political_orientation_text', 'Q6':'achieved_education', 'Q6_8_TEXT':'achieved_education_text', 'Q23_1':'bothered_pre', 'Q23_2':'uneasy_pre', 'Q23_3':'uncomfortable_pre', 'Q27':'C_time_alone', 'Q25':'C_academic_performance', 'Q8':'T_time_alone', 'Q24':'T_academic_performance', 'Q9':'value_activation', 'Q13_1':'bothered_post', 'Q13_2':'uneasy_post', 'Q13_3':'uncomfortable_post', 'Q17':'sandwich', 'Q18':'diet', 'Q18_7_TEXT':'diet_text', 'Q19':'reason_for_choice', 'Q20':'labels_attention', 'Q22':'feeling_observed', 'Q21.1':'did_value_activation_affect_choice' })
-
+data = data.drop([2,7,11,23,32,0,13,16,30,31,33,3,10,15], axis=0)
 
 data['value_activation'] = data['value_activation'].fillna('control')
 data['uneasy_pre'] = data['uneasy_pre'].fillna(int(0))
