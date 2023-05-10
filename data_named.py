@@ -19,7 +19,7 @@ data['C_academic_performance'] = data['C_academic_performance'].fillna('test')
 data['C_time_alone'] = data['C_time_alone'].fillna('test')
 data['T_academic_performance'] = data['T_academic_performance'].fillna('control')
 data['T_time_alone'] = data['T_time_alone'].fillna('control')
-data['did_value_activation_affect_choice'] = data['did_value_activation_affect_choice'].fillna('empty')
+data['did_value_activation_affect_choice'] = data['did_value_activation_affect_choice'].fillna('control')
 
 labels = data.keys()
 variable_values = {}
@@ -98,4 +98,5 @@ variable_values['feeling_observed'][2] = 'No'
 variable_values['feeling_observed'][3] = "I don't know"
 variable_values['did_value_activation_affect_choice'][1] = 'Yes'
 variable_values['did_value_activation_affect_choice'][2] = 'No'
-variable_values['did_value_activation_affect_choice']['empty'] = "Empty in the original csv"
+variable_values['did_value_activation_affect_choice'][3] = "I don't know"
+variable_values['did_value_activation_affect_choice']['control'] = "control group, did not see the question"
